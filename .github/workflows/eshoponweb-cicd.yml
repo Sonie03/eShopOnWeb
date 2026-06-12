@@ -8,7 +8,7 @@ env:
   RESOURCE-GROUP: rg-eshoponweb-westeurope
   LOCATION: westeurope
   TEMPLATE-FILE: infra/webapp.bicep
-  SUBSCRIPTION-ID: 660af2f3-681f-46c2-a082-bb7ce375177aecho
+  SUBSCRIPTION-ID: 660af2f3-681f-46c2-a082-bb7ce375177a
   WEBAPP-NAME: http://foundationprofile.trafficmanager.net
 
 jobs:
